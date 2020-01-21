@@ -1,4 +1,4 @@
-# Asynchronous remote study
+# 비동기적인 원격 스터디 (Asynchronous remote study)
 
 ## 소개
 본디 공부는 혼자 하는 것입니다.
